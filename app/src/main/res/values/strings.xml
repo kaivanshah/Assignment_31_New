@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment31</string>
+    <string name="Search">Search</string>
+    <string name="Search_Hint">Type Here</string>
+</resources>
